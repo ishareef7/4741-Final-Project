@@ -1,5 +1,5 @@
 # Repeat Buyers Prediction
-Project Proposal (ORIE 4741 Project by Hao, Frank, Ishmail)
+Project Proposal (ORIE 4741 Project by Hao Rong (hr335), Frank Zhang (fz252), Ishmail Grady (isg9))
 
 
 # Problem Statement
