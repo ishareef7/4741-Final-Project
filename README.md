@@ -19,19 +19,3 @@ The data set contains anonymized users' shopping logs in the past 6 months befor
 | merchant_id | A unique id for the merchant. |
 | label | Value from {0, 1, -1}. ' 1' denotes ' user_id' is a repeat buyer for ' merchant_id' ,  while ' 0' is the opposite. ' -1' represents that ' user_id' is not a new customer of  the given merchant, which means they already bought things 6 month ago. |
 | activity_log | Set of interaction records between {user_id, merchant_id}, where each record is  an action represented as ' item_id:category_id:brand_id:time_stamp:action_type'.  (Category_id is a unique id for the category that the item belongs to. Brand_id is  a unique id for the brand of the item. Action type includes four actions: click,  add-to-cart, purchase, add-to-favourite.) |
-
-Data Fields
-Description
-user_id
-A unique id for the shopper.
-age_range
-User' s age range: <18; [18,24]; [25,29]; [30,34]; [35,39]; [40,49]; >= 50; unknown.
-gender
-User' s gender: female, male, unknown.
-merchant_id
-A unique id for the merchant.
-label
-Value from {0, 1, -1}. ' 1' denotes ' user_id' is a repeat buyer for ' merchant_id' , while ' 0' is the opposite. ' -1' represents that ' user_id' is not a new customer of the given merchant, which means they already bought things 6 month ago. 
-activity_log
-Set of interaction records between {user_id, merchant_id}, where each record is an action represented as ' item_id:category_id:brand_id:time_stamp:action_type'. (Category_id is a unique id for the category that the item belongs to. Brand_id is a unique id for the brand of the item. Action type includes four actions: click, add-to-cart, purchase, add-to-favourite.)
-
