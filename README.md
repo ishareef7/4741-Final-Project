@@ -1,8 +1,7 @@
-# RepeatedBuyer
-ORIE 4741 Project by Hao, Frank, Ishmail
-
 # Project Proposal
 Repeat Buyers Prediction
+(ORIE 4741 Project by Hao, Frank, Ishmail)
+
 
 # Problem Statement
 Merchants usually run promotions on particular dates in order to attract a large number of new buyers. However, many of the attracted buyers are one-time buyer, and these promotions may have little long lasting effect on sales. To help merchant promote their strategy, it is important to identify which customer may be potential repeated buyers. This can greatly reduce the promotion cost and enhance the return on investment. Customer targeting is very challenging, especially for fresh buyers. 
