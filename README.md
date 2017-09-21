@@ -1,6 +1,5 @@
-# Project Proposal
-Repeat Buyers Prediction
-(ORIE 4741 Project by Hao, Frank, Ishmail)
+# Repeat Buyers Prediction
+Project Proposal (ORIE 4741 Project by Hao, Frank, Ishmail)
 
 
 # Problem Statement
